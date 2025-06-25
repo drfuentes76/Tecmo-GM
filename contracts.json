@@ -1,0 +1,16 @@
+[
+  {
+    "player": "QB1 Johnson",
+    "team": "Houston Cyclones",
+    "years": 3,
+    "value": 15,
+    "status": "signed"
+  },
+  {
+    "player": "WR1 Harris",
+    "team": "Seattle Storm",
+    "years": 2,
+    "value": 10,
+    "status": "signed"
+  }
+]

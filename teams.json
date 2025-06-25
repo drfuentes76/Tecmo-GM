@@ -1,0 +1,18 @@
+[
+  {
+    "teamName": "Houston Cyclones",
+    "division": "South",
+    "players": [
+      { "name": "QB1 Johnson", "position": "QB", "rating": 85 },
+      { "name": "RB1 Williams", "position": "RB", "rating": 88 }
+    ]
+  },
+  {
+    "teamName": "Seattle Storm",
+    "division": "North",
+    "players": [
+      { "name": "QB2 Smith", "position": "QB", "rating": 82 },
+      { "name": "WR1 Harris", "position": "WR", "rating": 90 }
+    ]
+  }
+]
