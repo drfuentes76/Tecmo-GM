@@ -1,18 +1,4062 @@
 [
   {
-    "teamName": "Houston Cyclones",
-    "division": "South",
+    "teamName": "49ERS",
     "players": [
-      { "name": "QB1 Johnson", "position": "QB", "rating": 85 },
-      { "name": "RB1 Williams", "position": "RB", "rating": 88 }
+      {
+        "name": "49_QB_1",
+        "position": "QB",
+        "speed": 97,
+        "power": 82,
+        "hp": 88
+      },
+      {
+        "name": "49_RB_2",
+        "position": "RB",
+        "speed": 63,
+        "power": 60,
+        "hp": 94
+      },
+      {
+        "name": "49_WR_3",
+        "position": "WR",
+        "speed": 92,
+        "power": 75,
+        "hp": 64
+      },
+      {
+        "name": "49_TE_4",
+        "position": "TE",
+        "speed": 67,
+        "power": 87,
+        "hp": 85
+      },
+      {
+        "name": "49_OL_5",
+        "position": "OL",
+        "speed": 87,
+        "power": 77,
+        "hp": 74
+      },
+      {
+        "name": "49_DL_6",
+        "position": "DL",
+        "speed": 69,
+        "power": 97,
+        "hp": 74
+      },
+      {
+        "name": "49_LB_7",
+        "position": "LB",
+        "speed": 99,
+        "power": 73,
+        "hp": 70
+      },
+      {
+        "name": "49_CB_8",
+        "position": "CB",
+        "speed": 93,
+        "power": 84,
+        "hp": 73
+      },
+      {
+        "name": "49_S_9",
+        "position": "S",
+        "speed": 85,
+        "power": 78,
+        "hp": 91
+      },
+      {
+        "name": "49_K_10",
+        "position": "K",
+        "speed": 83,
+        "power": 91,
+        "hp": 62
+      },
+      {
+        "name": "49_P_11",
+        "position": "P",
+        "speed": 62,
+        "power": 67,
+        "hp": 94
+      },
+      {
+        "name": "49_QB_12",
+        "position": "QB",
+        "speed": 82,
+        "power": 63,
+        "hp": 87
+      },
+      {
+        "name": "49_RB_13",
+        "position": "RB",
+        "speed": 99,
+        "power": 67,
+        "hp": 81
+      },
+      {
+        "name": "49_WR_14",
+        "position": "WR",
+        "speed": 61,
+        "power": 70,
+        "hp": 71
+      },
+      {
+        "name": "49_TE_15",
+        "position": "TE",
+        "speed": 63,
+        "power": 81,
+        "hp": 86
+      },
+      {
+        "name": "49_OL_16",
+        "position": "OL",
+        "speed": 72,
+        "power": 62,
+        "hp": 83
+      },
+      {
+        "name": "49_DL_17",
+        "position": "DL",
+        "speed": 93,
+        "power": 94,
+        "hp": 61
+      },
+      {
+        "name": "49_LB_18",
+        "position": "LB",
+        "speed": 71,
+        "power": 62,
+        "hp": 80
+      },
+      {
+        "name": "49_CB_19",
+        "position": "CB",
+        "speed": 82,
+        "power": 91,
+        "hp": 63
+      },
+      {
+        "name": "49_S_20",
+        "position": "S",
+        "speed": 98,
+        "power": 62,
+        "hp": 72
+      }
     ]
   },
   {
-    "teamName": "Seattle Storm",
-    "division": "North",
+    "teamName": "BEARS",
     "players": [
-      { "name": "QB2 Smith", "position": "QB", "rating": 82 },
-      { "name": "WR1 Harris", "position": "WR", "rating": 90 }
+      {
+        "name": "BE_QB_1",
+        "position": "QB",
+        "speed": 63,
+        "power": 70,
+        "hp": 91
+      },
+      {
+        "name": "BE_RB_2",
+        "position": "RB",
+        "speed": 88,
+        "power": 99,
+        "hp": 82
+      },
+      {
+        "name": "BE_WR_3",
+        "position": "WR",
+        "speed": 71,
+        "power": 82,
+        "hp": 93
+      },
+      {
+        "name": "BE_TE_4",
+        "position": "TE",
+        "speed": 87,
+        "power": 95,
+        "hp": 77
+      },
+      {
+        "name": "BE_OL_5",
+        "position": "OL",
+        "speed": 73,
+        "power": 86,
+        "hp": 78
+      },
+      {
+        "name": "BE_DL_6",
+        "position": "DL",
+        "speed": 95,
+        "power": 60,
+        "hp": 73
+      },
+      {
+        "name": "BE_LB_7",
+        "position": "LB",
+        "speed": 83,
+        "power": 71,
+        "hp": 60
+      },
+      {
+        "name": "BE_CB_8",
+        "position": "CB",
+        "speed": 64,
+        "power": 75,
+        "hp": 72
+      },
+      {
+        "name": "BE_S_9",
+        "position": "S",
+        "speed": 97,
+        "power": 86,
+        "hp": 91
+      },
+      {
+        "name": "BE_K_10",
+        "position": "K",
+        "speed": 94,
+        "power": 77,
+        "hp": 92
+      },
+      {
+        "name": "BE_P_11",
+        "position": "P",
+        "speed": 83,
+        "power": 98,
+        "hp": 75
+      },
+      {
+        "name": "BE_QB_12",
+        "position": "QB",
+        "speed": 75,
+        "power": 84,
+        "hp": 80
+      },
+      {
+        "name": "BE_RB_13",
+        "position": "RB",
+        "speed": 66,
+        "power": 77,
+        "hp": 75
+      },
+      {
+        "name": "BE_WR_14",
+        "position": "WR",
+        "speed": 74,
+        "power": 85,
+        "hp": 91
+      },
+      {
+        "name": "BE_TE_15",
+        "position": "TE",
+        "speed": 78,
+        "power": 85,
+        "hp": 74
+      },
+      {
+        "name": "BE_OL_16",
+        "position": "OL",
+        "speed": 88,
+        "power": 71,
+        "hp": 93
+      },
+      {
+        "name": "BE_DL_17",
+        "position": "DL",
+        "speed": 69,
+        "power": 67,
+        "hp": 60
+      },
+      {
+        "name": "BE_LB_18",
+        "position": "LB",
+        "speed": 61,
+        "power": 72,
+        "hp": 77
+      },
+      {
+        "name": "BE_CB_19",
+        "position": "CB",
+        "speed": 75,
+        "power": 98,
+        "hp": 98
+      },
+      {
+        "name": "BE_S_20",
+        "position": "S",
+        "speed": 76,
+        "power": 93,
+        "hp": 97
+      }
+    ]
+  },
+  {
+    "teamName": "BENGALS",
+    "players": [
+      {
+        "name": "BE_QB_1",
+        "position": "QB",
+        "speed": 95,
+        "power": 78,
+        "hp": 79
+      },
+      {
+        "name": "BE_RB_2",
+        "position": "RB",
+        "speed": 91,
+        "power": 66,
+        "hp": 77
+      },
+      {
+        "name": "BE_WR_3",
+        "position": "WR",
+        "speed": 65,
+        "power": 94,
+        "hp": 69
+      },
+      {
+        "name": "BE_TE_4",
+        "position": "TE",
+        "speed": 69,
+        "power": 76,
+        "hp": 61
+      },
+      {
+        "name": "BE_OL_5",
+        "position": "OL",
+        "speed": 71,
+        "power": 70,
+        "hp": 87
+      },
+      {
+        "name": "BE_DL_6",
+        "position": "DL",
+        "speed": 65,
+        "power": 91,
+        "hp": 94
+      },
+      {
+        "name": "BE_LB_7",
+        "position": "LB",
+        "speed": 96,
+        "power": 90,
+        "hp": 71
+      },
+      {
+        "name": "BE_CB_8",
+        "position": "CB",
+        "speed": 86,
+        "power": 87,
+        "hp": 90
+      },
+      {
+        "name": "BE_S_9",
+        "position": "S",
+        "speed": 88,
+        "power": 66,
+        "hp": 93
+      },
+      {
+        "name": "BE_K_10",
+        "position": "K",
+        "speed": 92,
+        "power": 67,
+        "hp": 67
+      },
+      {
+        "name": "BE_P_11",
+        "position": "P",
+        "speed": 72,
+        "power": 74,
+        "hp": 60
+      },
+      {
+        "name": "BE_QB_12",
+        "position": "QB",
+        "speed": 95,
+        "power": 70,
+        "hp": 69
+      },
+      {
+        "name": "BE_RB_13",
+        "position": "RB",
+        "speed": 97,
+        "power": 66,
+        "hp": 71
+      },
+      {
+        "name": "BE_WR_14",
+        "position": "WR",
+        "speed": 84,
+        "power": 92,
+        "hp": 62
+      },
+      {
+        "name": "BE_TE_15",
+        "position": "TE",
+        "speed": 61,
+        "power": 89,
+        "hp": 84
+      },
+      {
+        "name": "BE_OL_16",
+        "position": "OL",
+        "speed": 77,
+        "power": 81,
+        "hp": 90
+      },
+      {
+        "name": "BE_DL_17",
+        "position": "DL",
+        "speed": 83,
+        "power": 74,
+        "hp": 61
+      },
+      {
+        "name": "BE_LB_18",
+        "position": "LB",
+        "speed": 62,
+        "power": 91,
+        "hp": 74
+      },
+      {
+        "name": "BE_CB_19",
+        "position": "CB",
+        "speed": 74,
+        "power": 77,
+        "hp": 96
+      },
+      {
+        "name": "BE_S_20",
+        "position": "S",
+        "speed": 73,
+        "power": 79,
+        "hp": 73
+      }
+    ]
+  },
+  {
+    "teamName": "BILLS",
+    "players": [
+      {
+        "name": "BI_QB_1",
+        "position": "QB",
+        "speed": 84,
+        "power": 63,
+        "hp": 61
+      },
+      {
+        "name": "BI_RB_2",
+        "position": "RB",
+        "speed": 73,
+        "power": 79,
+        "hp": 74
+      },
+      {
+        "name": "BI_WR_3",
+        "position": "WR",
+        "speed": 80,
+        "power": 92,
+        "hp": 91
+      },
+      {
+        "name": "BI_TE_4",
+        "position": "TE",
+        "speed": 61,
+        "power": 83,
+        "hp": 66
+      },
+      {
+        "name": "BI_OL_5",
+        "position": "OL",
+        "speed": 83,
+        "power": 87,
+        "hp": 95
+      },
+      {
+        "name": "BI_DL_6",
+        "position": "DL",
+        "speed": 94,
+        "power": 70,
+        "hp": 93
+      },
+      {
+        "name": "BI_LB_7",
+        "position": "LB",
+        "speed": 79,
+        "power": 92,
+        "hp": 66
+      },
+      {
+        "name": "BI_CB_8",
+        "position": "CB",
+        "speed": 86,
+        "power": 96,
+        "hp": 99
+      },
+      {
+        "name": "BI_S_9",
+        "position": "S",
+        "speed": 69,
+        "power": 63,
+        "hp": 90
+      },
+      {
+        "name": "BI_K_10",
+        "position": "K",
+        "speed": 96,
+        "power": 84,
+        "hp": 93
+      },
+      {
+        "name": "BI_P_11",
+        "position": "P",
+        "speed": 84,
+        "power": 89,
+        "hp": 83
+      },
+      {
+        "name": "BI_QB_12",
+        "position": "QB",
+        "speed": 86,
+        "power": 68,
+        "hp": 73
+      },
+      {
+        "name": "BI_RB_13",
+        "position": "RB",
+        "speed": 71,
+        "power": 78,
+        "hp": 82
+      },
+      {
+        "name": "BI_WR_14",
+        "position": "WR",
+        "speed": 96,
+        "power": 74,
+        "hp": 88
+      },
+      {
+        "name": "BI_TE_15",
+        "position": "TE",
+        "speed": 65,
+        "power": 61,
+        "hp": 65
+      },
+      {
+        "name": "BI_OL_16",
+        "position": "OL",
+        "speed": 94,
+        "power": 60,
+        "hp": 61
+      },
+      {
+        "name": "BI_DL_17",
+        "position": "DL",
+        "speed": 99,
+        "power": 76,
+        "hp": 73
+      },
+      {
+        "name": "BI_LB_18",
+        "position": "LB",
+        "speed": 79,
+        "power": 94,
+        "hp": 77
+      },
+      {
+        "name": "BI_CB_19",
+        "position": "CB",
+        "speed": 89,
+        "power": 89,
+        "hp": 66
+      },
+      {
+        "name": "BI_S_20",
+        "position": "S",
+        "speed": 88,
+        "power": 78,
+        "hp": 61
+      }
+    ]
+  },
+  {
+    "teamName": "BRONCOS",
+    "players": [
+      {
+        "name": "BR_QB_1",
+        "position": "QB",
+        "speed": 68,
+        "power": 71,
+        "hp": 97
+      },
+      {
+        "name": "BR_RB_2",
+        "position": "RB",
+        "speed": 65,
+        "power": 63,
+        "hp": 88
+      },
+      {
+        "name": "BR_WR_3",
+        "position": "WR",
+        "speed": 99,
+        "power": 73,
+        "hp": 69
+      },
+      {
+        "name": "BR_TE_4",
+        "position": "TE",
+        "speed": 73,
+        "power": 97,
+        "hp": 85
+      },
+      {
+        "name": "BR_OL_5",
+        "position": "OL",
+        "speed": 79,
+        "power": 74,
+        "hp": 60
+      },
+      {
+        "name": "BR_DL_6",
+        "position": "DL",
+        "speed": 95,
+        "power": 72,
+        "hp": 86
+      },
+      {
+        "name": "BR_LB_7",
+        "position": "LB",
+        "speed": 80,
+        "power": 79,
+        "hp": 75
+      },
+      {
+        "name": "BR_CB_8",
+        "position": "CB",
+        "speed": 75,
+        "power": 86,
+        "hp": 73
+      },
+      {
+        "name": "BR_S_9",
+        "position": "S",
+        "speed": 88,
+        "power": 82,
+        "hp": 95
+      },
+      {
+        "name": "BR_K_10",
+        "position": "K",
+        "speed": 93,
+        "power": 74,
+        "hp": 69
+      },
+      {
+        "name": "BR_P_11",
+        "position": "P",
+        "speed": 95,
+        "power": 62,
+        "hp": 62
+      },
+      {
+        "name": "BR_QB_12",
+        "position": "QB",
+        "speed": 98,
+        "power": 98,
+        "hp": 75
+      },
+      {
+        "name": "BR_RB_13",
+        "position": "RB",
+        "speed": 99,
+        "power": 61,
+        "hp": 86
+      },
+      {
+        "name": "BR_WR_14",
+        "position": "WR",
+        "speed": 93,
+        "power": 75,
+        "hp": 73
+      },
+      {
+        "name": "BR_TE_15",
+        "position": "TE",
+        "speed": 97,
+        "power": 98,
+        "hp": 82
+      },
+      {
+        "name": "BR_OL_16",
+        "position": "OL",
+        "speed": 85,
+        "power": 60,
+        "hp": 74
+      },
+      {
+        "name": "BR_DL_17",
+        "position": "DL",
+        "speed": 74,
+        "power": 60,
+        "hp": 82
+      },
+      {
+        "name": "BR_LB_18",
+        "position": "LB",
+        "speed": 71,
+        "power": 61,
+        "hp": 87
+      },
+      {
+        "name": "BR_CB_19",
+        "position": "CB",
+        "speed": 98,
+        "power": 93,
+        "hp": 99
+      },
+      {
+        "name": "BR_S_20",
+        "position": "S",
+        "speed": 73,
+        "power": 65,
+        "hp": 71
+      }
+    ]
+  },
+  {
+    "teamName": "BROWNS",
+    "players": [
+      {
+        "name": "BR_QB_1",
+        "position": "QB",
+        "speed": 85,
+        "power": 80,
+        "hp": 99
+      },
+      {
+        "name": "BR_RB_2",
+        "position": "RB",
+        "speed": 62,
+        "power": 60,
+        "hp": 61
+      },
+      {
+        "name": "BR_WR_3",
+        "position": "WR",
+        "speed": 76,
+        "power": 64,
+        "hp": 81
+      },
+      {
+        "name": "BR_TE_4",
+        "position": "TE",
+        "speed": 92,
+        "power": 76,
+        "hp": 95
+      },
+      {
+        "name": "BR_OL_5",
+        "position": "OL",
+        "speed": 83,
+        "power": 67,
+        "hp": 98
+      },
+      {
+        "name": "BR_DL_6",
+        "position": "DL",
+        "speed": 82,
+        "power": 77,
+        "hp": 69
+      },
+      {
+        "name": "BR_LB_7",
+        "position": "LB",
+        "speed": 98,
+        "power": 66,
+        "hp": 63
+      },
+      {
+        "name": "BR_CB_8",
+        "position": "CB",
+        "speed": 99,
+        "power": 98,
+        "hp": 76
+      },
+      {
+        "name": "BR_S_9",
+        "position": "S",
+        "speed": 97,
+        "power": 81,
+        "hp": 99
+      },
+      {
+        "name": "BR_K_10",
+        "position": "K",
+        "speed": 83,
+        "power": 67,
+        "hp": 85
+      },
+      {
+        "name": "BR_P_11",
+        "position": "P",
+        "speed": 77,
+        "power": 65,
+        "hp": 76
+      },
+      {
+        "name": "BR_QB_12",
+        "position": "QB",
+        "speed": 69,
+        "power": 74,
+        "hp": 90
+      },
+      {
+        "name": "BR_RB_13",
+        "position": "RB",
+        "speed": 84,
+        "power": 74,
+        "hp": 80
+      },
+      {
+        "name": "BR_WR_14",
+        "position": "WR",
+        "speed": 66,
+        "power": 66,
+        "hp": 75
+      },
+      {
+        "name": "BR_TE_15",
+        "position": "TE",
+        "speed": 60,
+        "power": 93,
+        "hp": 91
+      },
+      {
+        "name": "BR_OL_16",
+        "position": "OL",
+        "speed": 94,
+        "power": 83,
+        "hp": 75
+      },
+      {
+        "name": "BR_DL_17",
+        "position": "DL",
+        "speed": 85,
+        "power": 76,
+        "hp": 73
+      },
+      {
+        "name": "BR_LB_18",
+        "position": "LB",
+        "speed": 70,
+        "power": 78,
+        "hp": 74
+      },
+      {
+        "name": "BR_CB_19",
+        "position": "CB",
+        "speed": 72,
+        "power": 62,
+        "hp": 77
+      },
+      {
+        "name": "BR_S_20",
+        "position": "S",
+        "speed": 71,
+        "power": 74,
+        "hp": 76
+      }
+    ]
+  },
+  {
+    "teamName": "BUCCANEERS",
+    "players": [
+      {
+        "name": "BU_QB_1",
+        "position": "QB",
+        "speed": 68,
+        "power": 66,
+        "hp": 80
+      },
+      {
+        "name": "BU_RB_2",
+        "position": "RB",
+        "speed": 80,
+        "power": 60,
+        "hp": 82
+      },
+      {
+        "name": "BU_WR_3",
+        "position": "WR",
+        "speed": 81,
+        "power": 68,
+        "hp": 64
+      },
+      {
+        "name": "BU_TE_4",
+        "position": "TE",
+        "speed": 62,
+        "power": 74,
+        "hp": 95
+      },
+      {
+        "name": "BU_OL_5",
+        "position": "OL",
+        "speed": 68,
+        "power": 66,
+        "hp": 94
+      },
+      {
+        "name": "BU_DL_6",
+        "position": "DL",
+        "speed": 91,
+        "power": 96,
+        "hp": 79
+      },
+      {
+        "name": "BU_LB_7",
+        "position": "LB",
+        "speed": 72,
+        "power": 93,
+        "hp": 66
+      },
+      {
+        "name": "BU_CB_8",
+        "position": "CB",
+        "speed": 72,
+        "power": 76,
+        "hp": 77
+      },
+      {
+        "name": "BU_S_9",
+        "position": "S",
+        "speed": 70,
+        "power": 81,
+        "hp": 64
+      },
+      {
+        "name": "BU_K_10",
+        "position": "K",
+        "speed": 92,
+        "power": 96,
+        "hp": 77
+      },
+      {
+        "name": "BU_P_11",
+        "position": "P",
+        "speed": 79,
+        "power": 87,
+        "hp": 66
+      },
+      {
+        "name": "BU_QB_12",
+        "position": "QB",
+        "speed": 89,
+        "power": 87,
+        "hp": 95
+      },
+      {
+        "name": "BU_RB_13",
+        "position": "RB",
+        "speed": 71,
+        "power": 84,
+        "hp": 83
+      },
+      {
+        "name": "BU_WR_14",
+        "position": "WR",
+        "speed": 85,
+        "power": 62,
+        "hp": 99
+      },
+      {
+        "name": "BU_TE_15",
+        "position": "TE",
+        "speed": 60,
+        "power": 78,
+        "hp": 72
+      },
+      {
+        "name": "BU_OL_16",
+        "position": "OL",
+        "speed": 98,
+        "power": 94,
+        "hp": 75
+      },
+      {
+        "name": "BU_DL_17",
+        "position": "DL",
+        "speed": 71,
+        "power": 75,
+        "hp": 63
+      },
+      {
+        "name": "BU_LB_18",
+        "position": "LB",
+        "speed": 82,
+        "power": 70,
+        "hp": 80
+      },
+      {
+        "name": "BU_CB_19",
+        "position": "CB",
+        "speed": 83,
+        "power": 98,
+        "hp": 64
+      },
+      {
+        "name": "BU_S_20",
+        "position": "S",
+        "speed": 73,
+        "power": 85,
+        "hp": 92
+      }
+    ]
+  },
+  {
+    "teamName": "CARDINALS",
+    "players": [
+      {
+        "name": "CA_QB_1",
+        "position": "QB",
+        "speed": 82,
+        "power": 70,
+        "hp": 62
+      },
+      {
+        "name": "CA_RB_2",
+        "position": "RB",
+        "speed": 95,
+        "power": 91,
+        "hp": 78
+      },
+      {
+        "name": "CA_WR_3",
+        "position": "WR",
+        "speed": 64,
+        "power": 99,
+        "hp": 64
+      },
+      {
+        "name": "CA_TE_4",
+        "position": "TE",
+        "speed": 93,
+        "power": 61,
+        "hp": 86
+      },
+      {
+        "name": "CA_OL_5",
+        "position": "OL",
+        "speed": 80,
+        "power": 90,
+        "hp": 76
+      },
+      {
+        "name": "CA_DL_6",
+        "position": "DL",
+        "speed": 98,
+        "power": 68,
+        "hp": 80
+      },
+      {
+        "name": "CA_LB_7",
+        "position": "LB",
+        "speed": 61,
+        "power": 80,
+        "hp": 82
+      },
+      {
+        "name": "CA_CB_8",
+        "position": "CB",
+        "speed": 66,
+        "power": 89,
+        "hp": 64
+      },
+      {
+        "name": "CA_S_9",
+        "position": "S",
+        "speed": 69,
+        "power": 76,
+        "hp": 93
+      },
+      {
+        "name": "CA_K_10",
+        "position": "K",
+        "speed": 73,
+        "power": 63,
+        "hp": 97
+      },
+      {
+        "name": "CA_P_11",
+        "position": "P",
+        "speed": 65,
+        "power": 99,
+        "hp": 77
+      },
+      {
+        "name": "CA_QB_12",
+        "position": "QB",
+        "speed": 76,
+        "power": 98,
+        "hp": 71
+      },
+      {
+        "name": "CA_RB_13",
+        "position": "RB",
+        "speed": 64,
+        "power": 64,
+        "hp": 89
+      },
+      {
+        "name": "CA_WR_14",
+        "position": "WR",
+        "speed": 82,
+        "power": 77,
+        "hp": 95
+      },
+      {
+        "name": "CA_TE_15",
+        "position": "TE",
+        "speed": 93,
+        "power": 97,
+        "hp": 67
+      },
+      {
+        "name": "CA_OL_16",
+        "position": "OL",
+        "speed": 85,
+        "power": 76,
+        "hp": 81
+      },
+      {
+        "name": "CA_DL_17",
+        "position": "DL",
+        "speed": 87,
+        "power": 76,
+        "hp": 84
+      },
+      {
+        "name": "CA_LB_18",
+        "position": "LB",
+        "speed": 77,
+        "power": 74,
+        "hp": 85
+      },
+      {
+        "name": "CA_CB_19",
+        "position": "CB",
+        "speed": 79,
+        "power": 60,
+        "hp": 75
+      },
+      {
+        "name": "CA_S_20",
+        "position": "S",
+        "speed": 81,
+        "power": 97,
+        "hp": 86
+      }
+    ]
+  },
+  {
+    "teamName": "CHARGERS",
+    "players": [
+      {
+        "name": "CH_QB_1",
+        "position": "QB",
+        "speed": 77,
+        "power": 90,
+        "hp": 89
+      },
+      {
+        "name": "CH_RB_2",
+        "position": "RB",
+        "speed": 91,
+        "power": 92,
+        "hp": 61
+      },
+      {
+        "name": "CH_WR_3",
+        "position": "WR",
+        "speed": 92,
+        "power": 88,
+        "hp": 67
+      },
+      {
+        "name": "CH_TE_4",
+        "position": "TE",
+        "speed": 99,
+        "power": 81,
+        "hp": 79
+      },
+      {
+        "name": "CH_OL_5",
+        "position": "OL",
+        "speed": 73,
+        "power": 60,
+        "hp": 68
+      },
+      {
+        "name": "CH_DL_6",
+        "position": "DL",
+        "speed": 83,
+        "power": 98,
+        "hp": 81
+      },
+      {
+        "name": "CH_LB_7",
+        "position": "LB",
+        "speed": 62,
+        "power": 76,
+        "hp": 68
+      },
+      {
+        "name": "CH_CB_8",
+        "position": "CB",
+        "speed": 91,
+        "power": 66,
+        "hp": 76
+      },
+      {
+        "name": "CH_S_9",
+        "position": "S",
+        "speed": 88,
+        "power": 95,
+        "hp": 68
+      },
+      {
+        "name": "CH_K_10",
+        "position": "K",
+        "speed": 98,
+        "power": 63,
+        "hp": 83
+      },
+      {
+        "name": "CH_P_11",
+        "position": "P",
+        "speed": 74,
+        "power": 82,
+        "hp": 81
+      },
+      {
+        "name": "CH_QB_12",
+        "position": "QB",
+        "speed": 73,
+        "power": 71,
+        "hp": 66
+      },
+      {
+        "name": "CH_RB_13",
+        "position": "RB",
+        "speed": 75,
+        "power": 75,
+        "hp": 84
+      },
+      {
+        "name": "CH_WR_14",
+        "position": "WR",
+        "speed": 70,
+        "power": 62,
+        "hp": 61
+      },
+      {
+        "name": "CH_TE_15",
+        "position": "TE",
+        "speed": 98,
+        "power": 75,
+        "hp": 67
+      },
+      {
+        "name": "CH_OL_16",
+        "position": "OL",
+        "speed": 73,
+        "power": 70,
+        "hp": 73
+      },
+      {
+        "name": "CH_DL_17",
+        "position": "DL",
+        "speed": 86,
+        "power": 85,
+        "hp": 87
+      },
+      {
+        "name": "CH_LB_18",
+        "position": "LB",
+        "speed": 79,
+        "power": 93,
+        "hp": 72
+      },
+      {
+        "name": "CH_CB_19",
+        "position": "CB",
+        "speed": 71,
+        "power": 61,
+        "hp": 92
+      },
+      {
+        "name": "CH_S_20",
+        "position": "S",
+        "speed": 61,
+        "power": 70,
+        "hp": 64
+      }
+    ]
+  },
+  {
+    "teamName": "CHIEFS",
+    "players": [
+      {
+        "name": "CH_QB_1",
+        "position": "QB",
+        "speed": 62,
+        "power": 89,
+        "hp": 92
+      },
+      {
+        "name": "CH_RB_2",
+        "position": "RB",
+        "speed": 98,
+        "power": 97,
+        "hp": 97
+      },
+      {
+        "name": "CH_WR_3",
+        "position": "WR",
+        "speed": 67,
+        "power": 66,
+        "hp": 98
+      },
+      {
+        "name": "CH_TE_4",
+        "position": "TE",
+        "speed": 89,
+        "power": 65,
+        "hp": 98
+      },
+      {
+        "name": "CH_OL_5",
+        "position": "OL",
+        "speed": 75,
+        "power": 98,
+        "hp": 80
+      },
+      {
+        "name": "CH_DL_6",
+        "position": "DL",
+        "speed": 79,
+        "power": 69,
+        "hp": 75
+      },
+      {
+        "name": "CH_LB_7",
+        "position": "LB",
+        "speed": 70,
+        "power": 72,
+        "hp": 61
+      },
+      {
+        "name": "CH_CB_8",
+        "position": "CB",
+        "speed": 85,
+        "power": 73,
+        "hp": 60
+      },
+      {
+        "name": "CH_S_9",
+        "position": "S",
+        "speed": 71,
+        "power": 62,
+        "hp": 78
+      },
+      {
+        "name": "CH_K_10",
+        "position": "K",
+        "speed": 62,
+        "power": 96,
+        "hp": 94
+      },
+      {
+        "name": "CH_P_11",
+        "position": "P",
+        "speed": 89,
+        "power": 86,
+        "hp": 98
+      },
+      {
+        "name": "CH_QB_12",
+        "position": "QB",
+        "speed": 76,
+        "power": 93,
+        "hp": 72
+      },
+      {
+        "name": "CH_RB_13",
+        "position": "RB",
+        "speed": 64,
+        "power": 84,
+        "hp": 83
+      },
+      {
+        "name": "CH_WR_14",
+        "position": "WR",
+        "speed": 69,
+        "power": 71,
+        "hp": 80
+      },
+      {
+        "name": "CH_TE_15",
+        "position": "TE",
+        "speed": 64,
+        "power": 98,
+        "hp": 68
+      },
+      {
+        "name": "CH_OL_16",
+        "position": "OL",
+        "speed": 78,
+        "power": 75,
+        "hp": 76
+      },
+      {
+        "name": "CH_DL_17",
+        "position": "DL",
+        "speed": 81,
+        "power": 87,
+        "hp": 83
+      },
+      {
+        "name": "CH_LB_18",
+        "position": "LB",
+        "speed": 83,
+        "power": 97,
+        "hp": 62
+      },
+      {
+        "name": "CH_CB_19",
+        "position": "CB",
+        "speed": 95,
+        "power": 60,
+        "hp": 91
+      },
+      {
+        "name": "CH_S_20",
+        "position": "S",
+        "speed": 97,
+        "power": 80,
+        "hp": 61
+      }
+    ]
+  },
+  {
+    "teamName": "COLTS",
+    "players": [
+      {
+        "name": "CO_QB_1",
+        "position": "QB",
+        "speed": 75,
+        "power": 75,
+        "hp": 79
+      },
+      {
+        "name": "CO_RB_2",
+        "position": "RB",
+        "speed": 91,
+        "power": 99,
+        "hp": 96
+      },
+      {
+        "name": "CO_WR_3",
+        "position": "WR",
+        "speed": 91,
+        "power": 98,
+        "hp": 80
+      },
+      {
+        "name": "CO_TE_4",
+        "position": "TE",
+        "speed": 86,
+        "power": 71,
+        "hp": 67
+      },
+      {
+        "name": "CO_OL_5",
+        "position": "OL",
+        "speed": 88,
+        "power": 88,
+        "hp": 99
+      },
+      {
+        "name": "CO_DL_6",
+        "position": "DL",
+        "speed": 84,
+        "power": 75,
+        "hp": 64
+      },
+      {
+        "name": "CO_LB_7",
+        "position": "LB",
+        "speed": 98,
+        "power": 91,
+        "hp": 77
+      },
+      {
+        "name": "CO_CB_8",
+        "position": "CB",
+        "speed": 67,
+        "power": 62,
+        "hp": 76
+      },
+      {
+        "name": "CO_S_9",
+        "position": "S",
+        "speed": 83,
+        "power": 78,
+        "hp": 82
+      },
+      {
+        "name": "CO_K_10",
+        "position": "K",
+        "speed": 99,
+        "power": 69,
+        "hp": 81
+      },
+      {
+        "name": "CO_P_11",
+        "position": "P",
+        "speed": 73,
+        "power": 80,
+        "hp": 85
+      },
+      {
+        "name": "CO_QB_12",
+        "position": "QB",
+        "speed": 69,
+        "power": 75,
+        "hp": 91
+      },
+      {
+        "name": "CO_RB_13",
+        "position": "RB",
+        "speed": 93,
+        "power": 87,
+        "hp": 96
+      },
+      {
+        "name": "CO_WR_14",
+        "position": "WR",
+        "speed": 81,
+        "power": 88,
+        "hp": 75
+      },
+      {
+        "name": "CO_TE_15",
+        "position": "TE",
+        "speed": 85,
+        "power": 97,
+        "hp": 86
+      },
+      {
+        "name": "CO_OL_16",
+        "position": "OL",
+        "speed": 87,
+        "power": 89,
+        "hp": 95
+      },
+      {
+        "name": "CO_DL_17",
+        "position": "DL",
+        "speed": 61,
+        "power": 83,
+        "hp": 80
+      },
+      {
+        "name": "CO_LB_18",
+        "position": "LB",
+        "speed": 91,
+        "power": 76,
+        "hp": 82
+      },
+      {
+        "name": "CO_CB_19",
+        "position": "CB",
+        "speed": 93,
+        "power": 94,
+        "hp": 84
+      },
+      {
+        "name": "CO_S_20",
+        "position": "S",
+        "speed": 97,
+        "power": 83,
+        "hp": 81
+      }
+    ]
+  },
+  {
+    "teamName": "COWBOYS",
+    "players": [
+      {
+        "name": "CO_QB_1",
+        "position": "QB",
+        "speed": 70,
+        "power": 73,
+        "hp": 71
+      },
+      {
+        "name": "CO_RB_2",
+        "position": "RB",
+        "speed": 64,
+        "power": 71,
+        "hp": 64
+      },
+      {
+        "name": "CO_WR_3",
+        "position": "WR",
+        "speed": 86,
+        "power": 81,
+        "hp": 68
+      },
+      {
+        "name": "CO_TE_4",
+        "position": "TE",
+        "speed": 90,
+        "power": 84,
+        "hp": 77
+      },
+      {
+        "name": "CO_OL_5",
+        "position": "OL",
+        "speed": 80,
+        "power": 85,
+        "hp": 99
+      },
+      {
+        "name": "CO_DL_6",
+        "position": "DL",
+        "speed": 90,
+        "power": 92,
+        "hp": 85
+      },
+      {
+        "name": "CO_LB_7",
+        "position": "LB",
+        "speed": 92,
+        "power": 66,
+        "hp": 69
+      },
+      {
+        "name": "CO_CB_8",
+        "position": "CB",
+        "speed": 91,
+        "power": 66,
+        "hp": 89
+      },
+      {
+        "name": "CO_S_9",
+        "position": "S",
+        "speed": 73,
+        "power": 79,
+        "hp": 84
+      },
+      {
+        "name": "CO_K_10",
+        "position": "K",
+        "speed": 60,
+        "power": 64,
+        "hp": 64
+      },
+      {
+        "name": "CO_P_11",
+        "position": "P",
+        "speed": 98,
+        "power": 87,
+        "hp": 61
+      },
+      {
+        "name": "CO_QB_12",
+        "position": "QB",
+        "speed": 93,
+        "power": 85,
+        "hp": 73
+      },
+      {
+        "name": "CO_RB_13",
+        "position": "RB",
+        "speed": 88,
+        "power": 93,
+        "hp": 85
+      },
+      {
+        "name": "CO_WR_14",
+        "position": "WR",
+        "speed": 62,
+        "power": 64,
+        "hp": 91
+      },
+      {
+        "name": "CO_TE_15",
+        "position": "TE",
+        "speed": 74,
+        "power": 82,
+        "hp": 86
+      },
+      {
+        "name": "CO_OL_16",
+        "position": "OL",
+        "speed": 86,
+        "power": 90,
+        "hp": 66
+      },
+      {
+        "name": "CO_DL_17",
+        "position": "DL",
+        "speed": 89,
+        "power": 82,
+        "hp": 71
+      },
+      {
+        "name": "CO_LB_18",
+        "position": "LB",
+        "speed": 82,
+        "power": 76,
+        "hp": 63
+      },
+      {
+        "name": "CO_CB_19",
+        "position": "CB",
+        "speed": 77,
+        "power": 61,
+        "hp": 62
+      },
+      {
+        "name": "CO_S_20",
+        "position": "S",
+        "speed": 96,
+        "power": 93,
+        "hp": 89
+      }
+    ]
+  },
+  {
+    "teamName": "DOLPHINS",
+    "players": [
+      {
+        "name": "DO_QB_1",
+        "position": "QB",
+        "speed": 96,
+        "power": 64,
+        "hp": 79
+      },
+      {
+        "name": "DO_RB_2",
+        "position": "RB",
+        "speed": 96,
+        "power": 80,
+        "hp": 94
+      },
+      {
+        "name": "DO_WR_3",
+        "position": "WR",
+        "speed": 64,
+        "power": 63,
+        "hp": 71
+      },
+      {
+        "name": "DO_TE_4",
+        "position": "TE",
+        "speed": 95,
+        "power": 62,
+        "hp": 88
+      },
+      {
+        "name": "DO_OL_5",
+        "position": "OL",
+        "speed": 94,
+        "power": 98,
+        "hp": 79
+      },
+      {
+        "name": "DO_DL_6",
+        "position": "DL",
+        "speed": 94,
+        "power": 85,
+        "hp": 89
+      },
+      {
+        "name": "DO_LB_7",
+        "position": "LB",
+        "speed": 83,
+        "power": 73,
+        "hp": 72
+      },
+      {
+        "name": "DO_CB_8",
+        "position": "CB",
+        "speed": 97,
+        "power": 66,
+        "hp": 99
+      },
+      {
+        "name": "DO_S_9",
+        "position": "S",
+        "speed": 91,
+        "power": 83,
+        "hp": 61
+      },
+      {
+        "name": "DO_K_10",
+        "position": "K",
+        "speed": 97,
+        "power": 88,
+        "hp": 60
+      },
+      {
+        "name": "DO_P_11",
+        "position": "P",
+        "speed": 83,
+        "power": 76,
+        "hp": 66
+      },
+      {
+        "name": "DO_QB_12",
+        "position": "QB",
+        "speed": 65,
+        "power": 63,
+        "hp": 71
+      },
+      {
+        "name": "DO_RB_13",
+        "position": "RB",
+        "speed": 89,
+        "power": 91,
+        "hp": 83
+      },
+      {
+        "name": "DO_WR_14",
+        "position": "WR",
+        "speed": 67,
+        "power": 76,
+        "hp": 75
+      },
+      {
+        "name": "DO_TE_15",
+        "position": "TE",
+        "speed": 67,
+        "power": 84,
+        "hp": 63
+      },
+      {
+        "name": "DO_OL_16",
+        "position": "OL",
+        "speed": 63,
+        "power": 88,
+        "hp": 87
+      },
+      {
+        "name": "DO_DL_17",
+        "position": "DL",
+        "speed": 60,
+        "power": 64,
+        "hp": 72
+      },
+      {
+        "name": "DO_LB_18",
+        "position": "LB",
+        "speed": 92,
+        "power": 87,
+        "hp": 79
+      },
+      {
+        "name": "DO_CB_19",
+        "position": "CB",
+        "speed": 93,
+        "power": 79,
+        "hp": 64
+      },
+      {
+        "name": "DO_S_20",
+        "position": "S",
+        "speed": 97,
+        "power": 64,
+        "hp": 95
+      }
+    ]
+  },
+  {
+    "teamName": "EAGLES",
+    "players": [
+      {
+        "name": "EA_QB_1",
+        "position": "QB",
+        "speed": 75,
+        "power": 76,
+        "hp": 66
+      },
+      {
+        "name": "EA_RB_2",
+        "position": "RB",
+        "speed": 72,
+        "power": 88,
+        "hp": 95
+      },
+      {
+        "name": "EA_WR_3",
+        "position": "WR",
+        "speed": 75,
+        "power": 85,
+        "hp": 94
+      },
+      {
+        "name": "EA_TE_4",
+        "position": "TE",
+        "speed": 99,
+        "power": 88,
+        "hp": 86
+      },
+      {
+        "name": "EA_OL_5",
+        "position": "OL",
+        "speed": 69,
+        "power": 94,
+        "hp": 96
+      },
+      {
+        "name": "EA_DL_6",
+        "position": "DL",
+        "speed": 80,
+        "power": 61,
+        "hp": 77
+      },
+      {
+        "name": "EA_LB_7",
+        "position": "LB",
+        "speed": 75,
+        "power": 69,
+        "hp": 65
+      },
+      {
+        "name": "EA_CB_8",
+        "position": "CB",
+        "speed": 84,
+        "power": 99,
+        "hp": 79
+      },
+      {
+        "name": "EA_S_9",
+        "position": "S",
+        "speed": 82,
+        "power": 89,
+        "hp": 74
+      },
+      {
+        "name": "EA_K_10",
+        "position": "K",
+        "speed": 79,
+        "power": 90,
+        "hp": 68
+      },
+      {
+        "name": "EA_P_11",
+        "position": "P",
+        "speed": 87,
+        "power": 92,
+        "hp": 65
+      },
+      {
+        "name": "EA_QB_12",
+        "position": "QB",
+        "speed": 60,
+        "power": 78,
+        "hp": 90
+      },
+      {
+        "name": "EA_RB_13",
+        "position": "RB",
+        "speed": 94,
+        "power": 90,
+        "hp": 93
+      },
+      {
+        "name": "EA_WR_14",
+        "position": "WR",
+        "speed": 66,
+        "power": 61,
+        "hp": 60
+      },
+      {
+        "name": "EA_TE_15",
+        "position": "TE",
+        "speed": 72,
+        "power": 98,
+        "hp": 85
+      },
+      {
+        "name": "EA_OL_16",
+        "position": "OL",
+        "speed": 71,
+        "power": 63,
+        "hp": 85
+      },
+      {
+        "name": "EA_DL_17",
+        "position": "DL",
+        "speed": 66,
+        "power": 70,
+        "hp": 95
+      },
+      {
+        "name": "EA_LB_18",
+        "position": "LB",
+        "speed": 77,
+        "power": 64,
+        "hp": 92
+      },
+      {
+        "name": "EA_CB_19",
+        "position": "CB",
+        "speed": 77,
+        "power": 91,
+        "hp": 71
+      },
+      {
+        "name": "EA_S_20",
+        "position": "S",
+        "speed": 92,
+        "power": 88,
+        "hp": 97
+      }
+    ]
+  },
+  {
+    "teamName": "FALCONS",
+    "players": [
+      {
+        "name": "FA_QB_1",
+        "position": "QB",
+        "speed": 75,
+        "power": 70,
+        "hp": 86
+      },
+      {
+        "name": "FA_RB_2",
+        "position": "RB",
+        "speed": 93,
+        "power": 71,
+        "hp": 81
+      },
+      {
+        "name": "FA_WR_3",
+        "position": "WR",
+        "speed": 81,
+        "power": 64,
+        "hp": 98
+      },
+      {
+        "name": "FA_TE_4",
+        "position": "TE",
+        "speed": 74,
+        "power": 68,
+        "hp": 65
+      },
+      {
+        "name": "FA_OL_5",
+        "position": "OL",
+        "speed": 89,
+        "power": 97,
+        "hp": 69
+      },
+      {
+        "name": "FA_DL_6",
+        "position": "DL",
+        "speed": 74,
+        "power": 99,
+        "hp": 82
+      },
+      {
+        "name": "FA_LB_7",
+        "position": "LB",
+        "speed": 75,
+        "power": 68,
+        "hp": 72
+      },
+      {
+        "name": "FA_CB_8",
+        "position": "CB",
+        "speed": 66,
+        "power": 60,
+        "hp": 79
+      },
+      {
+        "name": "FA_S_9",
+        "position": "S",
+        "speed": 72,
+        "power": 75,
+        "hp": 71
+      },
+      {
+        "name": "FA_K_10",
+        "position": "K",
+        "speed": 97,
+        "power": 83,
+        "hp": 60
+      },
+      {
+        "name": "FA_P_11",
+        "position": "P",
+        "speed": 87,
+        "power": 81,
+        "hp": 88
+      },
+      {
+        "name": "FA_QB_12",
+        "position": "QB",
+        "speed": 61,
+        "power": 64,
+        "hp": 69
+      },
+      {
+        "name": "FA_RB_13",
+        "position": "RB",
+        "speed": 94,
+        "power": 73,
+        "hp": 71
+      },
+      {
+        "name": "FA_WR_14",
+        "position": "WR",
+        "speed": 85,
+        "power": 86,
+        "hp": 94
+      },
+      {
+        "name": "FA_TE_15",
+        "position": "TE",
+        "speed": 89,
+        "power": 77,
+        "hp": 80
+      },
+      {
+        "name": "FA_OL_16",
+        "position": "OL",
+        "speed": 85,
+        "power": 99,
+        "hp": 99
+      },
+      {
+        "name": "FA_DL_17",
+        "position": "DL",
+        "speed": 63,
+        "power": 89,
+        "hp": 89
+      },
+      {
+        "name": "FA_LB_18",
+        "position": "LB",
+        "speed": 60,
+        "power": 80,
+        "hp": 94
+      },
+      {
+        "name": "FA_CB_19",
+        "position": "CB",
+        "speed": 72,
+        "power": 68,
+        "hp": 72
+      },
+      {
+        "name": "FA_S_20",
+        "position": "S",
+        "speed": 81,
+        "power": 61,
+        "hp": 85
+      }
+    ]
+  },
+  {
+    "teamName": "GIANTS",
+    "players": [
+      {
+        "name": "GI_QB_1",
+        "position": "QB",
+        "speed": 89,
+        "power": 63,
+        "hp": 89
+      },
+      {
+        "name": "GI_RB_2",
+        "position": "RB",
+        "speed": 86,
+        "power": 80,
+        "hp": 79
+      },
+      {
+        "name": "GI_WR_3",
+        "position": "WR",
+        "speed": 92,
+        "power": 70,
+        "hp": 98
+      },
+      {
+        "name": "GI_TE_4",
+        "position": "TE",
+        "speed": 64,
+        "power": 62,
+        "hp": 89
+      },
+      {
+        "name": "GI_OL_5",
+        "position": "OL",
+        "speed": 80,
+        "power": 71,
+        "hp": 67
+      },
+      {
+        "name": "GI_DL_6",
+        "position": "DL",
+        "speed": 70,
+        "power": 66,
+        "hp": 63
+      },
+      {
+        "name": "GI_LB_7",
+        "position": "LB",
+        "speed": 73,
+        "power": 75,
+        "hp": 99
+      },
+      {
+        "name": "GI_CB_8",
+        "position": "CB",
+        "speed": 60,
+        "power": 93,
+        "hp": 81
+      },
+      {
+        "name": "GI_S_9",
+        "position": "S",
+        "speed": 74,
+        "power": 69,
+        "hp": 97
+      },
+      {
+        "name": "GI_K_10",
+        "position": "K",
+        "speed": 60,
+        "power": 71,
+        "hp": 95
+      },
+      {
+        "name": "GI_P_11",
+        "position": "P",
+        "speed": 91,
+        "power": 71,
+        "hp": 65
+      },
+      {
+        "name": "GI_QB_12",
+        "position": "QB",
+        "speed": 73,
+        "power": 84,
+        "hp": 67
+      },
+      {
+        "name": "GI_RB_13",
+        "position": "RB",
+        "speed": 69,
+        "power": 85,
+        "hp": 76
+      },
+      {
+        "name": "GI_WR_14",
+        "position": "WR",
+        "speed": 64,
+        "power": 88,
+        "hp": 90
+      },
+      {
+        "name": "GI_TE_15",
+        "position": "TE",
+        "speed": 60,
+        "power": 80,
+        "hp": 82
+      },
+      {
+        "name": "GI_OL_16",
+        "position": "OL",
+        "speed": 72,
+        "power": 79,
+        "hp": 89
+      },
+      {
+        "name": "GI_DL_17",
+        "position": "DL",
+        "speed": 77,
+        "power": 89,
+        "hp": 82
+      },
+      {
+        "name": "GI_LB_18",
+        "position": "LB",
+        "speed": 67,
+        "power": 75,
+        "hp": 86
+      },
+      {
+        "name": "GI_CB_19",
+        "position": "CB",
+        "speed": 72,
+        "power": 85,
+        "hp": 69
+      },
+      {
+        "name": "GI_S_20",
+        "position": "S",
+        "speed": 89,
+        "power": 94,
+        "hp": 83
+      }
+    ]
+  },
+  {
+    "teamName": "JETS",
+    "players": [
+      {
+        "name": "JE_QB_1",
+        "position": "QB",
+        "speed": 76,
+        "power": 83,
+        "hp": 62
+      },
+      {
+        "name": "JE_RB_2",
+        "position": "RB",
+        "speed": 85,
+        "power": 92,
+        "hp": 94
+      },
+      {
+        "name": "JE_WR_3",
+        "position": "WR",
+        "speed": 60,
+        "power": 86,
+        "hp": 74
+      },
+      {
+        "name": "JE_TE_4",
+        "position": "TE",
+        "speed": 64,
+        "power": 66,
+        "hp": 64
+      },
+      {
+        "name": "JE_OL_5",
+        "position": "OL",
+        "speed": 75,
+        "power": 60,
+        "hp": 75
+      },
+      {
+        "name": "JE_DL_6",
+        "position": "DL",
+        "speed": 89,
+        "power": 83,
+        "hp": 72
+      },
+      {
+        "name": "JE_LB_7",
+        "position": "LB",
+        "speed": 94,
+        "power": 61,
+        "hp": 87
+      },
+      {
+        "name": "JE_CB_8",
+        "position": "CB",
+        "speed": 86,
+        "power": 67,
+        "hp": 74
+      },
+      {
+        "name": "JE_S_9",
+        "position": "S",
+        "speed": 82,
+        "power": 60,
+        "hp": 80
+      },
+      {
+        "name": "JE_K_10",
+        "position": "K",
+        "speed": 80,
+        "power": 98,
+        "hp": 85
+      },
+      {
+        "name": "JE_P_11",
+        "position": "P",
+        "speed": 82,
+        "power": 87,
+        "hp": 81
+      },
+      {
+        "name": "JE_QB_12",
+        "position": "QB",
+        "speed": 76,
+        "power": 84,
+        "hp": 64
+      },
+      {
+        "name": "JE_RB_13",
+        "position": "RB",
+        "speed": 62,
+        "power": 99,
+        "hp": 76
+      },
+      {
+        "name": "JE_WR_14",
+        "position": "WR",
+        "speed": 60,
+        "power": 89,
+        "hp": 99
+      },
+      {
+        "name": "JE_TE_15",
+        "position": "TE",
+        "speed": 65,
+        "power": 68,
+        "hp": 61
+      },
+      {
+        "name": "JE_OL_16",
+        "position": "OL",
+        "speed": 81,
+        "power": 60,
+        "hp": 62
+      },
+      {
+        "name": "JE_DL_17",
+        "position": "DL",
+        "speed": 79,
+        "power": 62,
+        "hp": 67
+      },
+      {
+        "name": "JE_LB_18",
+        "position": "LB",
+        "speed": 61,
+        "power": 62,
+        "hp": 99
+      },
+      {
+        "name": "JE_CB_19",
+        "position": "CB",
+        "speed": 68,
+        "power": 67,
+        "hp": 85
+      },
+      {
+        "name": "JE_S_20",
+        "position": "S",
+        "speed": 72,
+        "power": 85,
+        "hp": 74
+      }
+    ]
+  },
+  {
+    "teamName": "LIONS",
+    "players": [
+      {
+        "name": "LI_QB_1",
+        "position": "QB",
+        "speed": 71,
+        "power": 77,
+        "hp": 80
+      },
+      {
+        "name": "LI_RB_2",
+        "position": "RB",
+        "speed": 95,
+        "power": 87,
+        "hp": 71
+      },
+      {
+        "name": "LI_WR_3",
+        "position": "WR",
+        "speed": 94,
+        "power": 83,
+        "hp": 70
+      },
+      {
+        "name": "LI_TE_4",
+        "position": "TE",
+        "speed": 71,
+        "power": 92,
+        "hp": 74
+      },
+      {
+        "name": "LI_OL_5",
+        "position": "OL",
+        "speed": 61,
+        "power": 67,
+        "hp": 71
+      },
+      {
+        "name": "LI_DL_6",
+        "position": "DL",
+        "speed": 73,
+        "power": 70,
+        "hp": 67
+      },
+      {
+        "name": "LI_LB_7",
+        "position": "LB",
+        "speed": 77,
+        "power": 77,
+        "hp": 95
+      },
+      {
+        "name": "LI_CB_8",
+        "position": "CB",
+        "speed": 63,
+        "power": 63,
+        "hp": 60
+      },
+      {
+        "name": "LI_S_9",
+        "position": "S",
+        "speed": 64,
+        "power": 83,
+        "hp": 93
+      },
+      {
+        "name": "LI_K_10",
+        "position": "K",
+        "speed": 94,
+        "power": 80,
+        "hp": 64
+      },
+      {
+        "name": "LI_P_11",
+        "position": "P",
+        "speed": 64,
+        "power": 80,
+        "hp": 82
+      },
+      {
+        "name": "LI_QB_12",
+        "position": "QB",
+        "speed": 88,
+        "power": 77,
+        "hp": 61
+      },
+      {
+        "name": "LI_RB_13",
+        "position": "RB",
+        "speed": 61,
+        "power": 68,
+        "hp": 78
+      },
+      {
+        "name": "LI_WR_14",
+        "position": "WR",
+        "speed": 97,
+        "power": 76,
+        "hp": 60
+      },
+      {
+        "name": "LI_TE_15",
+        "position": "TE",
+        "speed": 73,
+        "power": 66,
+        "hp": 66
+      },
+      {
+        "name": "LI_OL_16",
+        "position": "OL",
+        "speed": 61,
+        "power": 96,
+        "hp": 62
+      },
+      {
+        "name": "LI_DL_17",
+        "position": "DL",
+        "speed": 92,
+        "power": 73,
+        "hp": 86
+      },
+      {
+        "name": "LI_LB_18",
+        "position": "LB",
+        "speed": 99,
+        "power": 91,
+        "hp": 77
+      },
+      {
+        "name": "LI_CB_19",
+        "position": "CB",
+        "speed": 83,
+        "power": 99,
+        "hp": 89
+      },
+      {
+        "name": "LI_S_20",
+        "position": "S",
+        "speed": 81,
+        "power": 74,
+        "hp": 97
+      }
+    ]
+  },
+  {
+    "teamName": "PACKERS",
+    "players": [
+      {
+        "name": "PA_QB_1",
+        "position": "QB",
+        "speed": 96,
+        "power": 73,
+        "hp": 96
+      },
+      {
+        "name": "PA_RB_2",
+        "position": "RB",
+        "speed": 92,
+        "power": 72,
+        "hp": 93
+      },
+      {
+        "name": "PA_WR_3",
+        "position": "WR",
+        "speed": 65,
+        "power": 62,
+        "hp": 86
+      },
+      {
+        "name": "PA_TE_4",
+        "position": "TE",
+        "speed": 99,
+        "power": 64,
+        "hp": 60
+      },
+      {
+        "name": "PA_OL_5",
+        "position": "OL",
+        "speed": 79,
+        "power": 78,
+        "hp": 62
+      },
+      {
+        "name": "PA_DL_6",
+        "position": "DL",
+        "speed": 66,
+        "power": 74,
+        "hp": 66
+      },
+      {
+        "name": "PA_LB_7",
+        "position": "LB",
+        "speed": 93,
+        "power": 94,
+        "hp": 98
+      },
+      {
+        "name": "PA_CB_8",
+        "position": "CB",
+        "speed": 65,
+        "power": 68,
+        "hp": 99
+      },
+      {
+        "name": "PA_S_9",
+        "position": "S",
+        "speed": 77,
+        "power": 72,
+        "hp": 95
+      },
+      {
+        "name": "PA_K_10",
+        "position": "K",
+        "speed": 97,
+        "power": 81,
+        "hp": 74
+      },
+      {
+        "name": "PA_P_11",
+        "position": "P",
+        "speed": 80,
+        "power": 78,
+        "hp": 99
+      },
+      {
+        "name": "PA_QB_12",
+        "position": "QB",
+        "speed": 97,
+        "power": 69,
+        "hp": 65
+      },
+      {
+        "name": "PA_RB_13",
+        "position": "RB",
+        "speed": 93,
+        "power": 78,
+        "hp": 96
+      },
+      {
+        "name": "PA_WR_14",
+        "position": "WR",
+        "speed": 71,
+        "power": 70,
+        "hp": 99
+      },
+      {
+        "name": "PA_TE_15",
+        "position": "TE",
+        "speed": 60,
+        "power": 74,
+        "hp": 94
+      },
+      {
+        "name": "PA_OL_16",
+        "position": "OL",
+        "speed": 73,
+        "power": 86,
+        "hp": 70
+      },
+      {
+        "name": "PA_DL_17",
+        "position": "DL",
+        "speed": 89,
+        "power": 93,
+        "hp": 75
+      },
+      {
+        "name": "PA_LB_18",
+        "position": "LB",
+        "speed": 70,
+        "power": 89,
+        "hp": 85
+      },
+      {
+        "name": "PA_CB_19",
+        "position": "CB",
+        "speed": 81,
+        "power": 82,
+        "hp": 68
+      },
+      {
+        "name": "PA_S_20",
+        "position": "S",
+        "speed": 61,
+        "power": 95,
+        "hp": 63
+      }
+    ]
+  },
+  {
+    "teamName": "OILERS",
+    "players": [
+      {
+        "name": "OI_QB_1",
+        "position": "QB",
+        "speed": 88,
+        "power": 71,
+        "hp": 62
+      },
+      {
+        "name": "OI_RB_2",
+        "position": "RB",
+        "speed": 67,
+        "power": 63,
+        "hp": 90
+      },
+      {
+        "name": "OI_WR_3",
+        "position": "WR",
+        "speed": 69,
+        "power": 88,
+        "hp": 97
+      },
+      {
+        "name": "OI_TE_4",
+        "position": "TE",
+        "speed": 70,
+        "power": 65,
+        "hp": 82
+      },
+      {
+        "name": "OI_OL_5",
+        "position": "OL",
+        "speed": 75,
+        "power": 82,
+        "hp": 92
+      },
+      {
+        "name": "OI_DL_6",
+        "position": "DL",
+        "speed": 98,
+        "power": 80,
+        "hp": 78
+      },
+      {
+        "name": "OI_LB_7",
+        "position": "LB",
+        "speed": 81,
+        "power": 62,
+        "hp": 76
+      },
+      {
+        "name": "OI_CB_8",
+        "position": "CB",
+        "speed": 66,
+        "power": 75,
+        "hp": 78
+      },
+      {
+        "name": "OI_S_9",
+        "position": "S",
+        "speed": 97,
+        "power": 62,
+        "hp": 90
+      },
+      {
+        "name": "OI_K_10",
+        "position": "K",
+        "speed": 97,
+        "power": 73,
+        "hp": 96
+      },
+      {
+        "name": "OI_P_11",
+        "position": "P",
+        "speed": 64,
+        "power": 64,
+        "hp": 93
+      },
+      {
+        "name": "OI_QB_12",
+        "position": "QB",
+        "speed": 69,
+        "power": 80,
+        "hp": 98
+      },
+      {
+        "name": "OI_RB_13",
+        "position": "RB",
+        "speed": 95,
+        "power": 76,
+        "hp": 81
+      },
+      {
+        "name": "OI_WR_14",
+        "position": "WR",
+        "speed": 64,
+        "power": 77,
+        "hp": 67
+      },
+      {
+        "name": "OI_TE_15",
+        "position": "TE",
+        "speed": 92,
+        "power": 79,
+        "hp": 95
+      },
+      {
+        "name": "OI_OL_16",
+        "position": "OL",
+        "speed": 66,
+        "power": 97,
+        "hp": 63
+      },
+      {
+        "name": "OI_DL_17",
+        "position": "DL",
+        "speed": 71,
+        "power": 92,
+        "hp": 94
+      },
+      {
+        "name": "OI_LB_18",
+        "position": "LB",
+        "speed": 85,
+        "power": 74,
+        "hp": 72
+      },
+      {
+        "name": "OI_CB_19",
+        "position": "CB",
+        "speed": 98,
+        "power": 79,
+        "hp": 86
+      },
+      {
+        "name": "OI_S_20",
+        "position": "S",
+        "speed": 78,
+        "power": 68,
+        "hp": 75
+      }
+    ]
+  },
+  {
+    "teamName": "PATRIOTS",
+    "players": [
+      {
+        "name": "PA_QB_1",
+        "position": "QB",
+        "speed": 78,
+        "power": 67,
+        "hp": 82
+      },
+      {
+        "name": "PA_RB_2",
+        "position": "RB",
+        "speed": 93,
+        "power": 75,
+        "hp": 65
+      },
+      {
+        "name": "PA_WR_3",
+        "position": "WR",
+        "speed": 99,
+        "power": 63,
+        "hp": 87
+      },
+      {
+        "name": "PA_TE_4",
+        "position": "TE",
+        "speed": 76,
+        "power": 95,
+        "hp": 85
+      },
+      {
+        "name": "PA_OL_5",
+        "position": "OL",
+        "speed": 81,
+        "power": 92,
+        "hp": 60
+      },
+      {
+        "name": "PA_DL_6",
+        "position": "DL",
+        "speed": 96,
+        "power": 63,
+        "hp": 90
+      },
+      {
+        "name": "PA_LB_7",
+        "position": "LB",
+        "speed": 83,
+        "power": 70,
+        "hp": 99
+      },
+      {
+        "name": "PA_CB_8",
+        "position": "CB",
+        "speed": 89,
+        "power": 99,
+        "hp": 90
+      },
+      {
+        "name": "PA_S_9",
+        "position": "S",
+        "speed": 89,
+        "power": 75,
+        "hp": 96
+      },
+      {
+        "name": "PA_K_10",
+        "position": "K",
+        "speed": 80,
+        "power": 84,
+        "hp": 75
+      },
+      {
+        "name": "PA_P_11",
+        "position": "P",
+        "speed": 98,
+        "power": 90,
+        "hp": 91
+      },
+      {
+        "name": "PA_QB_12",
+        "position": "QB",
+        "speed": 76,
+        "power": 72,
+        "hp": 74
+      },
+      {
+        "name": "PA_RB_13",
+        "position": "RB",
+        "speed": 64,
+        "power": 89,
+        "hp": 63
+      },
+      {
+        "name": "PA_WR_14",
+        "position": "WR",
+        "speed": 90,
+        "power": 72,
+        "hp": 95
+      },
+      {
+        "name": "PA_TE_15",
+        "position": "TE",
+        "speed": 71,
+        "power": 71,
+        "hp": 97
+      },
+      {
+        "name": "PA_OL_16",
+        "position": "OL",
+        "speed": 67,
+        "power": 97,
+        "hp": 90
+      },
+      {
+        "name": "PA_DL_17",
+        "position": "DL",
+        "speed": 66,
+        "power": 90,
+        "hp": 90
+      },
+      {
+        "name": "PA_LB_18",
+        "position": "LB",
+        "speed": 94,
+        "power": 68,
+        "hp": 60
+      },
+      {
+        "name": "PA_CB_19",
+        "position": "CB",
+        "speed": 68,
+        "power": 90,
+        "hp": 87
+      },
+      {
+        "name": "PA_S_20",
+        "position": "S",
+        "speed": 61,
+        "power": 70,
+        "hp": 92
+      }
+    ]
+  },
+  {
+    "teamName": "RAIDERS",
+    "players": [
+      {
+        "name": "RA_QB_1",
+        "position": "QB",
+        "speed": 85,
+        "power": 72,
+        "hp": 80
+      },
+      {
+        "name": "RA_RB_2",
+        "position": "RB",
+        "speed": 60,
+        "power": 91,
+        "hp": 82
+      },
+      {
+        "name": "RA_WR_3",
+        "position": "WR",
+        "speed": 80,
+        "power": 62,
+        "hp": 65
+      },
+      {
+        "name": "RA_TE_4",
+        "position": "TE",
+        "speed": 79,
+        "power": 72,
+        "hp": 83
+      },
+      {
+        "name": "RA_OL_5",
+        "position": "OL",
+        "speed": 82,
+        "power": 71,
+        "hp": 75
+      },
+      {
+        "name": "RA_DL_6",
+        "position": "DL",
+        "speed": 90,
+        "power": 86,
+        "hp": 76
+      },
+      {
+        "name": "RA_LB_7",
+        "position": "LB",
+        "speed": 76,
+        "power": 86,
+        "hp": 66
+      },
+      {
+        "name": "RA_CB_8",
+        "position": "CB",
+        "speed": 67,
+        "power": 78,
+        "hp": 97
+      },
+      {
+        "name": "RA_S_9",
+        "position": "S",
+        "speed": 99,
+        "power": 74,
+        "hp": 90
+      },
+      {
+        "name": "RA_K_10",
+        "position": "K",
+        "speed": 94,
+        "power": 98,
+        "hp": 93
+      },
+      {
+        "name": "RA_P_11",
+        "position": "P",
+        "speed": 63,
+        "power": 70,
+        "hp": 60
+      },
+      {
+        "name": "RA_QB_12",
+        "position": "QB",
+        "speed": 77,
+        "power": 62,
+        "hp": 82
+      },
+      {
+        "name": "RA_RB_13",
+        "position": "RB",
+        "speed": 61,
+        "power": 81,
+        "hp": 97
+      },
+      {
+        "name": "RA_WR_14",
+        "position": "WR",
+        "speed": 85,
+        "power": 82,
+        "hp": 62
+      },
+      {
+        "name": "RA_TE_15",
+        "position": "TE",
+        "speed": 71,
+        "power": 65,
+        "hp": 66
+      },
+      {
+        "name": "RA_OL_16",
+        "position": "OL",
+        "speed": 87,
+        "power": 79,
+        "hp": 74
+      },
+      {
+        "name": "RA_DL_17",
+        "position": "DL",
+        "speed": 99,
+        "power": 80,
+        "hp": 70
+      },
+      {
+        "name": "RA_LB_18",
+        "position": "LB",
+        "speed": 76,
+        "power": 77,
+        "hp": 66
+      },
+      {
+        "name": "RA_CB_19",
+        "position": "CB",
+        "speed": 83,
+        "power": 73,
+        "hp": 83
+      },
+      {
+        "name": "RA_S_20",
+        "position": "S",
+        "speed": 75,
+        "power": 67,
+        "hp": 99
+      }
+    ]
+  },
+  {
+    "teamName": "RAMS",
+    "players": [
+      {
+        "name": "RA_QB_1",
+        "position": "QB",
+        "speed": 96,
+        "power": 61,
+        "hp": 65
+      },
+      {
+        "name": "RA_RB_2",
+        "position": "RB",
+        "speed": 91,
+        "power": 74,
+        "hp": 67
+      },
+      {
+        "name": "RA_WR_3",
+        "position": "WR",
+        "speed": 89,
+        "power": 95,
+        "hp": 75
+      },
+      {
+        "name": "RA_TE_4",
+        "position": "TE",
+        "speed": 80,
+        "power": 66,
+        "hp": 64
+      },
+      {
+        "name": "RA_OL_5",
+        "position": "OL",
+        "speed": 67,
+        "power": 91,
+        "hp": 70
+      },
+      {
+        "name": "RA_DL_6",
+        "position": "DL",
+        "speed": 98,
+        "power": 66,
+        "hp": 88
+      },
+      {
+        "name": "RA_LB_7",
+        "position": "LB",
+        "speed": 93,
+        "power": 71,
+        "hp": 72
+      },
+      {
+        "name": "RA_CB_8",
+        "position": "CB",
+        "speed": 71,
+        "power": 96,
+        "hp": 91
+      },
+      {
+        "name": "RA_S_9",
+        "position": "S",
+        "speed": 62,
+        "power": 74,
+        "hp": 89
+      },
+      {
+        "name": "RA_K_10",
+        "position": "K",
+        "speed": 91,
+        "power": 71,
+        "hp": 89
+      },
+      {
+        "name": "RA_P_11",
+        "position": "P",
+        "speed": 75,
+        "power": 88,
+        "hp": 71
+      },
+      {
+        "name": "RA_QB_12",
+        "position": "QB",
+        "speed": 64,
+        "power": 76,
+        "hp": 63
+      },
+      {
+        "name": "RA_RB_13",
+        "position": "RB",
+        "speed": 60,
+        "power": 81,
+        "hp": 73
+      },
+      {
+        "name": "RA_WR_14",
+        "position": "WR",
+        "speed": 86,
+        "power": 60,
+        "hp": 86
+      },
+      {
+        "name": "RA_TE_15",
+        "position": "TE",
+        "speed": 62,
+        "power": 82,
+        "hp": 77
+      },
+      {
+        "name": "RA_OL_16",
+        "position": "OL",
+        "speed": 64,
+        "power": 66,
+        "hp": 93
+      },
+      {
+        "name": "RA_DL_17",
+        "position": "DL",
+        "speed": 66,
+        "power": 99,
+        "hp": 85
+      },
+      {
+        "name": "RA_LB_18",
+        "position": "LB",
+        "speed": 91,
+        "power": 75,
+        "hp": 60
+      },
+      {
+        "name": "RA_CB_19",
+        "position": "CB",
+        "speed": 73,
+        "power": 64,
+        "hp": 96
+      },
+      {
+        "name": "RA_S_20",
+        "position": "S",
+        "speed": 78,
+        "power": 74,
+        "hp": 95
+      }
+    ]
+  },
+  {
+    "teamName": "REDSKINS",
+    "players": [
+      {
+        "name": "RE_QB_1",
+        "position": "QB",
+        "speed": 62,
+        "power": 64,
+        "hp": 78
+      },
+      {
+        "name": "RE_RB_2",
+        "position": "RB",
+        "speed": 85,
+        "power": 72,
+        "hp": 74
+      },
+      {
+        "name": "RE_WR_3",
+        "position": "WR",
+        "speed": 73,
+        "power": 72,
+        "hp": 97
+      },
+      {
+        "name": "RE_TE_4",
+        "position": "TE",
+        "speed": 64,
+        "power": 89,
+        "hp": 67
+      },
+      {
+        "name": "RE_OL_5",
+        "position": "OL",
+        "speed": 63,
+        "power": 96,
+        "hp": 63
+      },
+      {
+        "name": "RE_DL_6",
+        "position": "DL",
+        "speed": 61,
+        "power": 99,
+        "hp": 81
+      },
+      {
+        "name": "RE_LB_7",
+        "position": "LB",
+        "speed": 69,
+        "power": 87,
+        "hp": 81
+      },
+      {
+        "name": "RE_CB_8",
+        "position": "CB",
+        "speed": 72,
+        "power": 63,
+        "hp": 88
+      },
+      {
+        "name": "RE_S_9",
+        "position": "S",
+        "speed": 63,
+        "power": 98,
+        "hp": 92
+      },
+      {
+        "name": "RE_K_10",
+        "position": "K",
+        "speed": 65,
+        "power": 89,
+        "hp": 78
+      },
+      {
+        "name": "RE_P_11",
+        "position": "P",
+        "speed": 95,
+        "power": 63,
+        "hp": 68
+      },
+      {
+        "name": "RE_QB_12",
+        "position": "QB",
+        "speed": 70,
+        "power": 86,
+        "hp": 78
+      },
+      {
+        "name": "RE_RB_13",
+        "position": "RB",
+        "speed": 78,
+        "power": 84,
+        "hp": 81
+      },
+      {
+        "name": "RE_WR_14",
+        "position": "WR",
+        "speed": 70,
+        "power": 84,
+        "hp": 91
+      },
+      {
+        "name": "RE_TE_15",
+        "position": "TE",
+        "speed": 63,
+        "power": 60,
+        "hp": 74
+      },
+      {
+        "name": "RE_OL_16",
+        "position": "OL",
+        "speed": 73,
+        "power": 99,
+        "hp": 76
+      },
+      {
+        "name": "RE_DL_17",
+        "position": "DL",
+        "speed": 66,
+        "power": 86,
+        "hp": 72
+      },
+      {
+        "name": "RE_LB_18",
+        "position": "LB",
+        "speed": 85,
+        "power": 77,
+        "hp": 74
+      },
+      {
+        "name": "RE_CB_19",
+        "position": "CB",
+        "speed": 64,
+        "power": 63,
+        "hp": 85
+      },
+      {
+        "name": "RE_S_20",
+        "position": "S",
+        "speed": 70,
+        "power": 84,
+        "hp": 78
+      }
+    ]
+  },
+  {
+    "teamName": "SAINTS",
+    "players": [
+      {
+        "name": "SA_QB_1",
+        "position": "QB",
+        "speed": 76,
+        "power": 67,
+        "hp": 68
+      },
+      {
+        "name": "SA_RB_2",
+        "position": "RB",
+        "speed": 98,
+        "power": 98,
+        "hp": 69
+      },
+      {
+        "name": "SA_WR_3",
+        "position": "WR",
+        "speed": 98,
+        "power": 99,
+        "hp": 83
+      },
+      {
+        "name": "SA_TE_4",
+        "position": "TE",
+        "speed": 84,
+        "power": 75,
+        "hp": 85
+      },
+      {
+        "name": "SA_OL_5",
+        "position": "OL",
+        "speed": 92,
+        "power": 76,
+        "hp": 92
+      },
+      {
+        "name": "SA_DL_6",
+        "position": "DL",
+        "speed": 81,
+        "power": 67,
+        "hp": 83
+      },
+      {
+        "name": "SA_LB_7",
+        "position": "LB",
+        "speed": 95,
+        "power": 75,
+        "hp": 84
+      },
+      {
+        "name": "SA_CB_8",
+        "position": "CB",
+        "speed": 85,
+        "power": 96,
+        "hp": 83
+      },
+      {
+        "name": "SA_S_9",
+        "position": "S",
+        "speed": 70,
+        "power": 82,
+        "hp": 97
+      },
+      {
+        "name": "SA_K_10",
+        "position": "K",
+        "speed": 82,
+        "power": 69,
+        "hp": 63
+      },
+      {
+        "name": "SA_P_11",
+        "position": "P",
+        "speed": 76,
+        "power": 98,
+        "hp": 85
+      },
+      {
+        "name": "SA_QB_12",
+        "position": "QB",
+        "speed": 67,
+        "power": 86,
+        "hp": 85
+      },
+      {
+        "name": "SA_RB_13",
+        "position": "RB",
+        "speed": 65,
+        "power": 73,
+        "hp": 63
+      },
+      {
+        "name": "SA_WR_14",
+        "position": "WR",
+        "speed": 61,
+        "power": 96,
+        "hp": 65
+      },
+      {
+        "name": "SA_TE_15",
+        "position": "TE",
+        "speed": 83,
+        "power": 90,
+        "hp": 89
+      },
+      {
+        "name": "SA_OL_16",
+        "position": "OL",
+        "speed": 76,
+        "power": 73,
+        "hp": 61
+      },
+      {
+        "name": "SA_DL_17",
+        "position": "DL",
+        "speed": 61,
+        "power": 78,
+        "hp": 65
+      },
+      {
+        "name": "SA_LB_18",
+        "position": "LB",
+        "speed": 87,
+        "power": 68,
+        "hp": 69
+      },
+      {
+        "name": "SA_CB_19",
+        "position": "CB",
+        "speed": 63,
+        "power": 68,
+        "hp": 80
+      },
+      {
+        "name": "SA_S_20",
+        "position": "S",
+        "speed": 93,
+        "power": 87,
+        "hp": 94
+      }
+    ]
+  },
+  {
+    "teamName": "SEAHAWKS",
+    "players": [
+      {
+        "name": "SE_QB_1",
+        "position": "QB",
+        "speed": 84,
+        "power": 69,
+        "hp": 89
+      },
+      {
+        "name": "SE_RB_2",
+        "position": "RB",
+        "speed": 63,
+        "power": 69,
+        "hp": 99
+      },
+      {
+        "name": "SE_WR_3",
+        "position": "WR",
+        "speed": 67,
+        "power": 84,
+        "hp": 71
+      },
+      {
+        "name": "SE_TE_4",
+        "position": "TE",
+        "speed": 93,
+        "power": 95,
+        "hp": 97
+      },
+      {
+        "name": "SE_OL_5",
+        "position": "OL",
+        "speed": 62,
+        "power": 68,
+        "hp": 99
+      },
+      {
+        "name": "SE_DL_6",
+        "position": "DL",
+        "speed": 91,
+        "power": 92,
+        "hp": 99
+      },
+      {
+        "name": "SE_LB_7",
+        "position": "LB",
+        "speed": 98,
+        "power": 93,
+        "hp": 69
+      },
+      {
+        "name": "SE_CB_8",
+        "position": "CB",
+        "speed": 85,
+        "power": 88,
+        "hp": 91
+      },
+      {
+        "name": "SE_S_9",
+        "position": "S",
+        "speed": 89,
+        "power": 67,
+        "hp": 98
+      },
+      {
+        "name": "SE_K_10",
+        "position": "K",
+        "speed": 81,
+        "power": 77,
+        "hp": 69
+      },
+      {
+        "name": "SE_P_11",
+        "position": "P",
+        "speed": 79,
+        "power": 90,
+        "hp": 89
+      },
+      {
+        "name": "SE_QB_12",
+        "position": "QB",
+        "speed": 96,
+        "power": 79,
+        "hp": 99
+      },
+      {
+        "name": "SE_RB_13",
+        "position": "RB",
+        "speed": 99,
+        "power": 82,
+        "hp": 93
+      },
+      {
+        "name": "SE_WR_14",
+        "position": "WR",
+        "speed": 73,
+        "power": 87,
+        "hp": 69
+      },
+      {
+        "name": "SE_TE_15",
+        "position": "TE",
+        "speed": 93,
+        "power": 70,
+        "hp": 74
+      },
+      {
+        "name": "SE_OL_16",
+        "position": "OL",
+        "speed": 62,
+        "power": 78,
+        "hp": 72
+      },
+      {
+        "name": "SE_DL_17",
+        "position": "DL",
+        "speed": 94,
+        "power": 86,
+        "hp": 90
+      },
+      {
+        "name": "SE_LB_18",
+        "position": "LB",
+        "speed": 92,
+        "power": 65,
+        "hp": 79
+      },
+      {
+        "name": "SE_CB_19",
+        "position": "CB",
+        "speed": 77,
+        "power": 60,
+        "hp": 91
+      },
+      {
+        "name": "SE_S_20",
+        "position": "S",
+        "speed": 85,
+        "power": 81,
+        "hp": 63
+      }
+    ]
+  },
+  {
+    "teamName": "STEELERS",
+    "players": [
+      {
+        "name": "ST_QB_1",
+        "position": "QB",
+        "speed": 68,
+        "power": 94,
+        "hp": 78
+      },
+      {
+        "name": "ST_RB_2",
+        "position": "RB",
+        "speed": 98,
+        "power": 60,
+        "hp": 72
+      },
+      {
+        "name": "ST_WR_3",
+        "position": "WR",
+        "speed": 83,
+        "power": 97,
+        "hp": 88
+      },
+      {
+        "name": "ST_TE_4",
+        "position": "TE",
+        "speed": 78,
+        "power": 69,
+        "hp": 83
+      },
+      {
+        "name": "ST_OL_5",
+        "position": "OL",
+        "speed": 69,
+        "power": 74,
+        "hp": 80
+      },
+      {
+        "name": "ST_DL_6",
+        "position": "DL",
+        "speed": 94,
+        "power": 66,
+        "hp": 69
+      },
+      {
+        "name": "ST_LB_7",
+        "position": "LB",
+        "speed": 71,
+        "power": 98,
+        "hp": 71
+      },
+      {
+        "name": "ST_CB_8",
+        "position": "CB",
+        "speed": 62,
+        "power": 86,
+        "hp": 69
+      },
+      {
+        "name": "ST_S_9",
+        "position": "S",
+        "speed": 85,
+        "power": 60,
+        "hp": 88
+      },
+      {
+        "name": "ST_K_10",
+        "position": "K",
+        "speed": 61,
+        "power": 79,
+        "hp": 86
+      },
+      {
+        "name": "ST_P_11",
+        "position": "P",
+        "speed": 99,
+        "power": 99,
+        "hp": 80
+      },
+      {
+        "name": "ST_QB_12",
+        "position": "QB",
+        "speed": 84,
+        "power": 72,
+        "hp": 96
+      },
+      {
+        "name": "ST_RB_13",
+        "position": "RB",
+        "speed": 62,
+        "power": 69,
+        "hp": 90
+      },
+      {
+        "name": "ST_WR_14",
+        "position": "WR",
+        "speed": 98,
+        "power": 92,
+        "hp": 70
+      },
+      {
+        "name": "ST_TE_15",
+        "position": "TE",
+        "speed": 90,
+        "power": 99,
+        "hp": 85
+      },
+      {
+        "name": "ST_OL_16",
+        "position": "OL",
+        "speed": 65,
+        "power": 86,
+        "hp": 92
+      },
+      {
+        "name": "ST_DL_17",
+        "position": "DL",
+        "speed": 64,
+        "power": 83,
+        "hp": 91
+      },
+      {
+        "name": "ST_LB_18",
+        "position": "LB",
+        "speed": 62,
+        "power": 89,
+        "hp": 72
+      },
+      {
+        "name": "ST_CB_19",
+        "position": "CB",
+        "speed": 88,
+        "power": 84,
+        "hp": 82
+      },
+      {
+        "name": "ST_S_20",
+        "position": "S",
+        "speed": 94,
+        "power": 73,
+        "hp": 74
+      }
+    ]
+  },
+  {
+    "teamName": "VIKINGS",
+    "players": [
+      {
+        "name": "VI_QB_1",
+        "position": "QB",
+        "speed": 79,
+        "power": 62,
+        "hp": 74
+      },
+      {
+        "name": "VI_RB_2",
+        "position": "RB",
+        "speed": 83,
+        "power": 80,
+        "hp": 64
+      },
+      {
+        "name": "VI_WR_3",
+        "position": "WR",
+        "speed": 66,
+        "power": 87,
+        "hp": 68
+      },
+      {
+        "name": "VI_TE_4",
+        "position": "TE",
+        "speed": 68,
+        "power": 62,
+        "hp": 75
+      },
+      {
+        "name": "VI_OL_5",
+        "position": "OL",
+        "speed": 70,
+        "power": 93,
+        "hp": 68
+      },
+      {
+        "name": "VI_DL_6",
+        "position": "DL",
+        "speed": 75,
+        "power": 86,
+        "hp": 74
+      },
+      {
+        "name": "VI_LB_7",
+        "position": "LB",
+        "speed": 90,
+        "power": 99,
+        "hp": 90
+      },
+      {
+        "name": "VI_CB_8",
+        "position": "CB",
+        "speed": 98,
+        "power": 97,
+        "hp": 96
+      },
+      {
+        "name": "VI_S_9",
+        "position": "S",
+        "speed": 80,
+        "power": 71,
+        "hp": 80
+      },
+      {
+        "name": "VI_K_10",
+        "position": "K",
+        "speed": 76,
+        "power": 96,
+        "hp": 92
+      },
+      {
+        "name": "VI_P_11",
+        "position": "P",
+        "speed": 86,
+        "power": 76,
+        "hp": 74
+      },
+      {
+        "name": "VI_QB_12",
+        "position": "QB",
+        "speed": 93,
+        "power": 97,
+        "hp": 97
+      },
+      {
+        "name": "VI_RB_13",
+        "position": "RB",
+        "speed": 66,
+        "power": 65,
+        "hp": 94
+      },
+      {
+        "name": "VI_WR_14",
+        "position": "WR",
+        "speed": 69,
+        "power": 67,
+        "hp": 74
+      },
+      {
+        "name": "VI_TE_15",
+        "position": "TE",
+        "speed": 91,
+        "power": 75,
+        "hp": 67
+      },
+      {
+        "name": "VI_OL_16",
+        "position": "OL",
+        "speed": 80,
+        "power": 76,
+        "hp": 98
+      },
+      {
+        "name": "VI_DL_17",
+        "position": "DL",
+        "speed": 87,
+        "power": 74,
+        "hp": 86
+      },
+      {
+        "name": "VI_LB_18",
+        "position": "LB",
+        "speed": 83,
+        "power": 86,
+        "hp": 80
+      },
+      {
+        "name": "VI_CB_19",
+        "position": "CB",
+        "speed": 62,
+        "power": 82,
+        "hp": 70
+      },
+      {
+        "name": "VI_S_20",
+        "position": "S",
+        "speed": 72,
+        "power": 90,
+        "hp": 97
+      }
     ]
   }
 ]

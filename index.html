@@ -1,65 +1,48 @@
+
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Tecmo GM Mode</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-<div id='newsTicker' aria-live='polite' style='background:#222;color:#0f0;padding:0.5rem;margin-bottom:1rem;'>Loading news...</div>
-  <main>
-    <h1>Tecmo Super Bowl - GM Mode</h1>
-    <nav>
-      <button onclick="showPage('gm')">General Manager</button>
-      <button onclick="showPage('game')">Play Game</button>
-    </nav>
-
-    <section id="gmPage" style="display:none;">
-      <h2>General Manager Mode</h2>
-      <button onclick="editTeams()">Edit Teams</button>
-      <button onclick="manageContracts()">Contracts</button>
-      <button onclick="tradePlayers()">Trade Players</button>
-      <button onclick="releasePlayer()">Release Player</button>
-      <button onclick="signPlayer()">Sign Player</button>
-      
-      <button onclick="viewSalaryCap()">View Salary Cap</button>
-      <button onclick="viewDraftBoard()">Draft Board</button>
-      <button onclick="viewPlayoffs()">View Playoffs</button>
-      <button onclick="viewStandings()">League Standings</button>
-    
-      <button onclick="simulateGame()">Simulate Game</button>
-      <button onclick="viewHallOfFame()">Hall of Fame</button>
-    
-      <button onclick="viewFreeAgents()">Free Agents</button>
-      <button onclick="updateMoraleAndRetirements()">Advance Season</button>
-      <button onclick="runDraftPick('Houston Cyclones')">Houston Draft Pick</button>
-      <button onclick="runDraftPick('Seattle Storm')">Seattle Draft Pick</button>
-    
-        <button onclick="saveFranchise()">Save Franchise</button>
-        <button onclick="loadFranchise()">Load Franchise</button>
-        <button onclick="editContract('QB1 Johnson')">Edit QB1 Contract</button>
-        <button onclick="tradePlayer('RB1 Williams', 'Houston Cyclones', 'Seattle Storm')">Trade Williams to Seattle</button>
-        
-      <button onclick="viewSchedule()">View Season Schedule</button>
-      <button onclick="simulateWeek(1)">Simulate Week 1</button>
-      <button onclick="simulateWeek(2)">Simulate Week 2</button>
-    <button onclick="returnHome()">Return to Home</button>
-        
-      <div id="gmContent"></div>
-    </section>
-
-    <section id="gamePage" style="display:none;">
-      <h2>Game Simulation (Coming Soon)</h2>
-      
-        <button onclick="saveFranchise()">Save Franchise</button>
-        <button onclick="loadFranchise()">Load Franchise</button>
-        <button onclick="editContract('QB1 Johnson')">Edit QB1 Contract</button>
-        <button onclick="tradePlayer('RB1 Williams', 'Houston Cyclones', 'Seattle Storm')">Trade Williams to Seattle</button>
-        <button onclick="returnHome()">Return to Home</button>
-        
-    </section>
-  </main>
-  <script src="main.js"></script>
+<html>
+<head><meta charset="UTF-8"><title>Tecmo Super Bowl GM Mode</title></head>
+<body style="background:#111;color:#0f0;font-family:sans-serif;">
+<div id="newsTicker">GM Mode Active - ROM Patched</div>
+<nav>
+  <button onclick="show('gm')">GM Mode</button>
+  <button onclick="show('play')">Play Game</button>
+</nav>
+<section id="gm" style="display:none;"><h2>GM Mode</h2><div id="gmContent"></div></section>
+<section id="play" style="display:none;">
+  <h2>Play Tecmo Super Bowl</h2>
+  <canvas id="nes-canvas" width="256" height="240" style="border:1px solid #0f0;"></canvas>
+</section>
+<script src="https://unpkg.com/jsnes@0.8.0/dist/jsnes.min.js"></script>
+<script>
+let nes;
+function show(section) {
+  document.getElementById('gm').style.display = section === 'gm' ? 'block' : 'none';
+  document.getElementById('play').style.display = section === 'play' ? 'block' : 'none';
+  if (section === 'play') {
+    fetch('TecmoSuperBowl_patched.nes').then(res => res.arrayBuffer()).then(data => {
+      nes = new jsnes.NES({
+        onFrame(buffer) {
+          const canvas = document.getElementById("nes-canvas");
+          const ctx = canvas.getContext("2d");
+          const image = ctx.getImageData(0, 0, 256, 240);
+          for (let i = 0; i < buffer.length; i++) image.data[i] = buffer[i];
+          ctx.putImageData(image, 0, 0);
+        }
+      });
+      nes.loadROM(String.fromCharCode(...new Uint8Array(data)));
+      nes.start();
+    });
+  }
+}
+window.onload = () => {
+  fetch("teams.json").then(res => res.json()).then(data => {
+    const gm = document.getElementById("gmContent");
+    gm.innerHTML = data.map(team => "<b>" + team.teamName + "</b><ul>" +
+      team.players.map(p => "<li>" + p.name + " (" + p.position + ") SPD:" +
+      p.speed + " PWR:" + p.power + " HP:" + p.hp + "</li>").join("") + "</ul>").join("<hr>");
+  });
+};
+</script>
 </body>
 </html>
