@@ -1,0 +1,1 @@
+Final ROM-embedded Tecmo Super Bowl build. Features: GM Mode, Save/Load, Stat Overlay, NES Controls. Deploy index.html to GitHub Pages.
